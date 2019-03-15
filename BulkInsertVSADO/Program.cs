@@ -17,8 +17,9 @@ namespace BulkInsertVSADO
             }
 
             alu.Add(alumnos);
+            alu.BulkCopy(alumnos);
+ 
 
-            alu.DELETETABLE();
         }
     }
 }

@@ -1,0 +1,9 @@
+Desde Ado  Corriendo la insercion 15/03/2019 1:05:24
+Finalizando la inserción si tardó mas de diez minutos 15/03/2019 1:15:24
+Timepo total de ejecución 00:10:00.0056662 
+Total registros = 28879
+
+Desde Bulk  Corriendo la insercion 15/03/2019 1:15:31
+Finalizando la inserción15/03/2019 1:15:40
+Timepo total de ejecución 00:00:09.0867266 
+Total registros = 2000000
